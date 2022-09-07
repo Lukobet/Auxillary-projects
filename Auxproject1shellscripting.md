@@ -25,3 +25,15 @@ Testing to ensure connection but encountered a problem. Couldnt get the right pe
   
 [Screencast from 09-06-2022 11:40:28 PM.webm](https://user-images.githubusercontent.com/110517150/188758131-f95988a1-090a-4748-ae13-954030f6fe33.webm)
 
+  
+  I started all over again and above is the list of the names of developers
+  
+  ![Screenshot from 2022-09-07 20-41-19](https://user-images.githubusercontent.com/110517150/188963149-37c5b96f-bbe7-4a92-9e0a-f16975686a08.png)
+  
+[Screencast from 09-07-2022 08:43:13 PM.webm](https://user-images.githubusercontent.com/110517150/188964373-0b17911e-3583-4135-8df6-28006cf59b01.webm)
+  
+  
+  Still getting the same result
+  [Screencast from 09-07-2022 08:50:50 PM.webm](https://user-images.githubusercontent.com/110517150/188965373-8cc2ac90-eb57-4058-a22d-45d2549c92fb.webm)
+  
+

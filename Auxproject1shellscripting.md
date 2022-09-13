@@ -35,5 +35,11 @@ Testing to ensure connection but encountered a problem. Couldnt get the right pe
   
   Still getting the same result
   [Screencast from 09-07-2022 08:50:50 PM.webm](https://user-images.githubusercontent.com/110517150/188965373-8cc2ac90-eb57-4058-a22d-45d2549c92fb.webm)
+
   
+  # finally got a breakthrough after changing location on the console to Frankfurt, changing security to ALL TRAFFIC and starting all over again
+  
+  ![Screenshot from 2022-09-14 00-41-22](https://user-images.githubusercontent.com/110517150/190028527-9094b37f-26d5-4301-ac83-52fc20b443ac.png)
+  
+![Screenshot from 2022-09-14 00-41-07](https://user-images.githubusercontent.com/110517150/190028542-8cf7f6ec-2c91-49f9-984f-8763b8e3ff9e.png)
 

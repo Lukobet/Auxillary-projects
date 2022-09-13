@@ -43,3 +43,17 @@ Testing to ensure connection but encountered a problem. Couldnt get the right pe
   
 ![Screenshot from 2022-09-14 00-41-07](https://user-images.githubusercontent.com/110517150/190028542-8cf7f6ec-2c91-49f9-984f-8763b8e3ff9e.png)
 
+  
+  Testing if Lampard is a sudoer
+  
+  ![Screenshot from 2022-09-14 00-46-03](https://user-images.githubusercontent.com/110517150/190028753-4a39e6e6-c15a-40b4-b9ac-f5488de2ffe1.png)
+  
+  Connected as Dare and testing his sudoer privilege
+  
+  ![Screenshot from 2022-09-14 00-48-53](https://user-images.githubusercontent.com/110517150/190028962-e9bac445-2b78-48ff-96ff-79a5f4ec3e40.png)
+  
+  ![Screenshot from 2022-09-14 00-50-04](https://user-images.githubusercontent.com/110517150/190029086-40f2bd4e-c914-41e0-824b-44d8243e6b9e.png)
+  
+  ![Screenshot from 2022-09-14 00-52-08](https://user-images.githubusercontent.com/110517150/190029246-77522401-0a21-4ed2-9b52-f28d3ae8711b.png)
+
+  
